@@ -8,4 +8,5 @@ let featuredPosts = [
 
 // Create an array that lists your i.e. experience, education, licenses, skills or similar
 // The items of the array should be strings
-
+let someArray = ["experience", "education", "licences", "skills or similar"]
+console.log(someArray)
